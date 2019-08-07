@@ -1,0 +1,17 @@
+br\com\magnasistemas\data\MemberListProducer.class
+br\com\magnasistemas\model\Client.class
+br\com\magnasistemas\service\ClienteService.class
+br\com\magnasistemas\service\MemberRegistration.class
+br\com\magnasistemas\model\Fornecedores.class
+br\com\magnasistemas\service\FornecedoresService.class
+br\com\magnasistemas\model\Endereco.class
+br\com\magnasistemas\model\Member.class
+br\com\magnasistemas\model\Member_.class
+br\com\magnasistemas\controller\MemberController.class
+br\com\magnasistemas\rest\MemberResourceRESTService.class
+br\com\magnasistemas\data\MemberRepository.class
+br\com\magnasistemas\util\Resources.class
+br\com\magnasistemas\rest\FornecedoresResourceRESTService.class
+br\com\magnasistemas\soap\FornecedoresResourceSOAPService.class
+br\com\magnasistemas\rest\JaxRsActivator.class
+br\com\magnasistemas\soap\ClientResourceSOAPService.class
